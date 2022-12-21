@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "f3968414434bad40e8fec9a330fc2dcc",
+  "assets/AssetManifest.json": "47cee8bf08d9adbaec406517c897f114",
 "assets/assets/africa.json": "12417da15bcdb19e7b6d317397be398c",
 "assets/assets/australia.json": "44a78deabd95d71e77e92b831084ea91",
 "assets/assets/chart_data.json": "04e7199ad841fba81e37771a4a435c2c",
-"assets/assets/europe.json": "a336a091c0758b69506ea6a4fa21086b",
+"assets/assets/europe.json": "d4355549caa721ff759e195d7d577917",
 "assets/assets/fonts/Heebo-Bold.ttf": "ede6fdf4ecf8c32c21701823004343f4",
 "assets/assets/fonts/Heebo-Medium.ttf": "6c57263dbdee325394e471a12499e64c",
 "assets/assets/fonts/Roboto-Bold.ttf": "e07df86cef2e721115583d61d1fb68a6",
@@ -262,11 +262,11 @@ const RESOURCES = {
 "assets/images/xlsio/liabilities.png": "284b091ce4bf5117779c32e43587c480",
 "assets/images/xlsio.png": "35299393c94bdbcbfa7de8be67b5eaa9",
 "assets/images/youtube.png": "0c781d861a8df15b16ed1ddde3d49535",
-"assets/lib/sample_details.json": "726f2c68b79a15b8f4845fe87f32bf5e",
-"assets/NOTICES": "7abb33b5743fe2bdb7447fa385330ea8",
-"assets/packages/syncfusion_flutter_datagrid/assets/font/FilterIcon.ttf": "e1644c5eeae0fb2799d35c2b9feb0bd3",
+"assets/lib/sample_details.json": "f93524807b2b5e504054a54901724cd4",
+"assets/NOTICES": "4472c7594246633384e76a900f094db3",
+"assets/packages/syncfusion_flutter_datagrid/assets/font/FilterIcon.ttf": "c17d858d09fb1c596ef0adbf08872086",
 "assets/packages/syncfusion_flutter_datagrid/assets/font/UnsortIcon.ttf": "6d8ab59254a120b76bf53f167e809470",
-"assets/packages/timezone/data/2020a.tzf": "84285f1f81b999f1de349a723574b3e5",
+"assets/packages/timezone/data/latest_all.tzf": "016df80452fa51f0f61403cd259f2366",
 "assets/shaders/ink_sparkle.frag": "6333b551ea27fd9d8e1271e92def26a9",
 "BingSiteAuth.xml": "5a55635fd2a391bdcad8d0ef1af1a17b",
 "canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
@@ -278,14 +278,14 @@ const RESOURCES = {
 "googlec03dd4bc003151bc.html": "d8ee63ac530b376c19042286c0935849",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "d550ef9b1238d19f07c6ee9ec8360db1",
-"/": "d550ef9b1238d19f07c6ee9ec8360db1",
-"main.dart.js": "12b7d8f7df52c49ae1101f5f8ae748b7",
+"index.html": "5ad733911cb7ea6ef51f16c885be9de4",
+"/": "5ad733911cb7ea6ef51f16c885be9de4",
+"main.dart.js": "5067e151a71d7b5087fc71b2cb062018",
 "manifest.json": "e0ce32893358312172b53c3721868c70",
 "naver335c61fba11bdb4a502b86bfe2e8db08.html": "85f86c5a9f9bac1ffe7952c2c28fc294",
 "robots.txt": "5634545ff7f473a66679177c67cdfe40",
 "sitemap.xml": "3a92faedb633adb43266a6617a5c2e8f",
-"version.json": "0c02fcd30324273ce0cf8e783d1d6eb0"
+"version.json": "7fc03c643c3b121a85e0f7a2135c71f4"
 };
 
 // The application shell files that are downloaded before a service worker can
